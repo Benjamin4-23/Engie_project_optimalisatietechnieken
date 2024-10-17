@@ -1,0 +1,499 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "coords": [
+                2.0,
+                50.0
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 1,
+            "coords": [
+                2.001399065965,
+                50.0
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 2,
+            "coords": [
+                2.001399065965,
+                50.000899302268
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 3,
+            "coords": [
+                2.0,
+                50.000899302268
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 4,
+            "coords": [
+                1.999720186807,
+                50.000899302268
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 5,
+            "coords": [
+                2.0,
+                50.001079162721
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 6,
+            "coords": [
+                2.001399065965,
+                50.000944267381
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 7,
+            "coords": [
+                2.001399065965,
+                50.001079162721
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 8,
+            "coords": [
+                2.001678879158,
+                50.000899302268
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 9,
+            "coords": [
+                1.999860093403,
+                50.000944267381
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 10,
+            "coords": [
+                2.0,
+                50.000944267381
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 11,
+            "coords": [
+                2.000699532983,
+                50.000944267381
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 12,
+            "coords": [
+                2.001538972562,
+                50.000944267381
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 13,
+            "coords": [
+                2.00069953298,
+                50.00004496511338
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 14,
+            "coords": [
+                2.00069953298,
+                50.0
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 15,
+            "coords": [
+                2.00115422942,
+                50.00004496511338
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 16,
+            "coords": [
+                2.00115422942,
+                50.0
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 17,
+            "coords": [
+                2.0013291126669963,
+                50.00020234301
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 18,
+            "coords": [
+                2.001399065965,
+                50.00020234301
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 19,
+            "coords": [
+                2.000069953298263,
+                50.0005
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 20,
+            "coords": [
+                2.0,
+                50.0005
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 21,
+            "coords": [
+                2.0001,
+                50.00085433715422
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 22,
+            "coords": [
+                2.0001,
+                50.000899302268
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 23,
+            "coords": [
+                2.000069953298263,
+                50.00065199414
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 24,
+            "coords": [
+                2.0,
+                50.00065199414
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 25,
+            "coords": [
+                2.00014483654,
+                50.00085433715422
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 26,
+            "coords": [
+                2.00014483654,
+                50.000899302268
+            ],
+            "node_type": "regular"
+        },
+        {
+            "id": 27,
+            "coords": [
+                2.00069953298,
+                50.00011241278
+            ],
+            "node_type": "prospect"
+        },
+        {
+            "id": 28,
+            "coords": [
+                2.00115422942,
+                50.00020234301
+            ],
+            "node_type": "prospect"
+        },
+        {
+            "id": 29,
+            "coords": [
+                2.0001,
+                50.0005
+            ],
+            "node_type": "prospect"
+        },
+        {
+            "id": 30,
+            "coords": [
+                2.00014483654,
+                50.00065199414
+            ],
+            "node_type": "prospect"
+        }
+    ],
+    "edges": [
+        {
+            "id": 0,
+            "edge_type": "regular",
+            "cost": 50,
+            "endpoint1": 0,
+            "endpoint2": 14
+        },
+        {
+            "id": 1,
+            "edge_type": "regular",
+            "cost": 50,
+            "endpoint1": 0,
+            "endpoint2": 20
+        },
+        {
+            "id": 2,
+            "edge_type": "regular",
+            "cost": 89,
+            "endpoint1": 2,
+            "endpoint2": 26
+        },
+        {
+            "id": 3,
+            "edge_type": "regular",
+            "cost": 5,
+            "endpoint1": 2,
+            "endpoint2": 6
+        },
+        {
+            "id": 4,
+            "edge_type": "regular",
+            "cost": 20,
+            "endpoint1": 2,
+            "endpoint2": 8
+        },
+        {
+            "id": 5,
+            "edge_type": "regular",
+            "cost": 20,
+            "endpoint1": 3,
+            "endpoint2": 4
+        },
+        {
+            "id": 6,
+            "edge_type": "regular",
+            "cost": 15,
+            "endpoint1": 6,
+            "endpoint2": 7
+        },
+        {
+            "id": 7,
+            "edge_type": "existing",
+            "cost": 0,
+            "endpoint1": 6,
+            "endpoint2": 11
+        },
+        {
+            "id": 8,
+            "edge_type": "existing",
+            "cost": 0,
+            "endpoint1": 6,
+            "endpoint2": 12
+        },
+        {
+            "id": 9,
+            "edge_type": "existing",
+            "cost": 0,
+            "endpoint1": 9,
+            "endpoint2": 10
+        },
+        {
+            "id": 10,
+            "edge_type": "existing",
+            "cost": 0,
+            "endpoint1": 10,
+            "endpoint2": 11
+        },
+        {
+            "id": 11,
+            "edge_type": "offstreet",
+            "cost": 50,
+            "endpoint1": 13,
+            "endpoint2": 14
+        },
+        {
+            "id": 12,
+            "edge_type": "offstreet",
+            "cost": 150,
+            "endpoint1": 13,
+            "endpoint2": 27
+        },
+        {
+            "id": 13,
+            "edge_type": "offstreet",
+            "cost": 50,
+            "endpoint1": 15,
+            "endpoint2": 16
+        },
+        {
+            "id": 14,
+            "edge_type": "offstreet",
+            "cost": 350,
+            "endpoint1": 15,
+            "endpoint2": 28
+        },
+        {
+            "id": 15,
+            "edge_type": "offstreet",
+            "cost": 50,
+            "endpoint1": 17,
+            "endpoint2": 18
+        },
+        {
+            "id": 16,
+            "edge_type": "offstreet",
+            "cost": 250,
+            "endpoint1": 17,
+            "endpoint2": 28
+        },
+        {
+            "id": 17,
+            "edge_type": "offstreet",
+            "cost": 50,
+            "endpoint1": 19,
+            "endpoint2": 20
+        },
+        {
+            "id": 18,
+            "edge_type": "offstreet",
+            "cost": 43,
+            "endpoint1": 19,
+            "endpoint2": 29
+        },
+        {
+            "id": 19,
+            "edge_type": "offstreet",
+            "cost": 50,
+            "endpoint1": 21,
+            "endpoint2": 22
+        },
+        {
+            "id": 20,
+            "edge_type": "offstreet",
+            "cost": 789,
+            "endpoint1": 21,
+            "endpoint2": 29
+        },
+        {
+            "id": 21,
+            "edge_type": "offstreet",
+            "cost": 50,
+            "endpoint1": 23,
+            "endpoint2": 24
+        },
+        {
+            "id": 22,
+            "edge_type": "offstreet",
+            "cost": 108,
+            "endpoint1": 23,
+            "endpoint2": 30
+        },
+        {
+            "id": 23,
+            "edge_type": "offstreet",
+            "cost": 50,
+            "endpoint1": 25,
+            "endpoint2": 26
+        },
+        {
+            "id": 24,
+            "edge_type": "offstreet",
+            "cost": 450,
+            "endpoint1": 25,
+            "endpoint2": 30
+        },
+        {
+            "id": 25,
+            "edge_type": "regular",
+            "cost": 32,
+            "endpoint1": 14,
+            "endpoint2": 16
+        },
+        {
+            "id": 26,
+            "edge_type": "regular",
+            "cost": 17,
+            "endpoint1": 16,
+            "endpoint2": 1
+        },
+        {
+            "id": 27,
+            "edge_type": "regular",
+            "cost": 22,
+            "endpoint1": 18,
+            "endpoint2": 1
+        },
+        {
+            "id": 28,
+            "edge_type": "regular",
+            "cost": 17,
+            "endpoint1": 20,
+            "endpoint2": 24
+        },
+        {
+            "id": 29,
+            "edge_type": "regular",
+            "cost": 3,
+            "endpoint1": 22,
+            "endpoint2": 26
+        },
+        {
+            "id": 31,
+            "edge_type": "regular",
+            "cost": 8,
+            "endpoint1": 3,
+            "endpoint2": 22
+        },
+        {
+            "id": 32,
+            "edge_type": "regular",
+            "cost": 33,
+            "endpoint1": 3,
+            "endpoint2": 24
+        },
+        {
+            "id": 33,
+            "edge_type": "regular",
+            "cost": 78,
+            "endpoint1": 2,
+            "endpoint2": 18
+        },
+        {
+            "id": 34,
+            "edge_type": "regular",
+            "cost": 15,
+            "endpoint1": 5,
+            "endpoint2": 10
+        },
+        {
+            "id": 35,
+            "edge_type": "regular",
+            "cost": 5,
+            "endpoint1": 3,
+            "endpoint2": 10
+        }
+    ]
+}
